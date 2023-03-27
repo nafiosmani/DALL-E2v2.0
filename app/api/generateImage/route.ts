@@ -5,7 +5,7 @@ export async function POST(request: Request) {
   const prompt = res.prompt;
 
   const response = await fetch(
-    ("http://localhost:7071/api/generateImage"),
+    "https://dallev2imagegen.azurewebsites.net/api/generateimage",
     {
       method: "POST",
       headers: {
