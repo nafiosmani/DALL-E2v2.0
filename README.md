@@ -1,5 +1,5 @@
 # DALL-E2v2
-https://dall-e2v2-0-nafiosmani.vercel.app/
+https://dall-e2v2-0.vercel.app/
 
 # Next.js + Tailwind CSS Example
 
