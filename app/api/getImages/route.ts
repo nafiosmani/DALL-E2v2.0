@@ -1,6 +1,6 @@
 export async function GET(request: Request) {
   const response = await fetch(
-    "https://sonnytestapp.azurewebsites.net/api/getImages",
+    "http://localhost:7071/api/getImages",
     {
       cache: "no-store",
     }
